@@ -18,7 +18,7 @@ Just import css into your html code between `<head>` section and set the path to
 ```
 
 # 3. Use & Enjoy the material colors
-- You can use the color by class property on any tags, like this: `class="..."`
+- You can use the colors by class property on any tags like this: `class="..."`
 - Can be set **background** color by class: `bg-...`
 - Can be set **foreground** color by class: `fg-...`
 - May be call a simple color like this: `bg-indigo` or `fg-pink`
