@@ -1,5 +1,6 @@
 # css-material-colors
-CSS Material Design Background and Foreground colors
+CSS Material Design Background and Foreground colors  
+Test it on CodePen: http://codepen.io/badboy/pen/BKPQWr/
 
 # 1. Download CSS file, it's easy
 Simply download the `material-colors.css` and link to your next HTML project.
