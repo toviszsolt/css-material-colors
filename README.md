@@ -26,5 +26,5 @@ Just import css into your html code between `<head>` section and set the path to
  
 # 4. Colors and Tones
 - Colors: `-red`,`-pink`,`-purple`,`-deep-purple`,`-indigo`,`-blue`,`-light-blue`,`-cyan`,`-teal`,`-green`,`-light-green`,`-lime`,`-yellow`,`-amber`,`-orange`,`-deep-orange`,`-brown`,`-grey`,`-blue-grey` and without tones: `-black`,`-white`
-- Tones: `50`,`100`,`200`,`300`,`400`,`500`,`600`,`700`,`800`,`900`,`a100`,`a200`,`a400`,`a700`
+- Tones: `-50`,`-100`,`-200`,`-300`,`-400`,`-500`,`-600`,`-700`,`-800`,`-900`,`-a100`,`-a200`,`-a400`,`-a700`
 - Color palette: https://www.google.com/design/spec/style/color.html#color-color-palette
