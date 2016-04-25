@@ -1,5 +1,5 @@
-# css-material-colors
-CSS Material Design Background and Foreground colors  
+# CSS Material Colors
+CSS library for Material Design Background and Foreground colors
 Test it on CodePen: http://codepen.io/badboy/pen/BKPQWr/
 
 # 1. Download CSS file, it's easy
@@ -26,6 +26,6 @@ Just import css into your html code between `<head>` section and set the path to
 - And may be call a color tone  like this: `bg-deep-purple-700` or `fg-lime-a200`
  
 # 4. Colors and Tones
-- Colors: `-red`,`-pink`,`-purple`,`-deep-purple`,`-indigo`,`-blue`,`-light-blue`,`-cyan`,`-teal`,`-green`,`-light-green`,`-lime`,`-yellow`,`-amber`,`-orange`,`-deep-orange`,`-brown`,`-grey`,`-blue-grey` and without tones: `-black`,`-white`
-- Tones: `-50`,`-100`,`-200`,`-300`,`-400`,`-500`,`-600`,`-700`,`-800`,`-900`,`-a100`,`-a200`,`-a400`,`-a700`
+- Colors: `-red`, `-pink`, `-purple`, `-deep-purple`, `-indigo`, `-blue`, `-light-blue`, `-cyan`, `-teal`, `-green`, `-light-green`, `-lime`, `-yellow`, `-amber`, `-orange`, `-deep-orange`, `-brown`, `-grey`, `-blue-grey` and without tones: `-black`, `-white`
+- Tones: `-50`, `-100`, `-200`, `-300`, `-400`, `-500`, `-600`, `-700`, `-800`, `-900`, `-a100`, `-a200`, `-a400`, `-a700`
 - Color palette: https://www.google.com/design/spec/style/color.html#color-color-palette
