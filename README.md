@@ -1,5 +1,5 @@
 # CSS Material Colors
-CSS library for Material Design Background and Foreground colors
+CSS library for Material Design Background and Foreground colors  
 Test it on CodePen: http://codepen.io/badboy/pen/BKPQWr/
 
 # 1. Download CSS file, it's easy
